@@ -27,7 +27,7 @@ A sleek and responsive Point of Sale (POS) system built with React, TypeScript, 
 
 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/zackpdl/POS-System.git>
 ```
 
 2. Install dependencies
@@ -78,3 +78,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Product images from [Unsplash](https://unsplash.com)
 - Icons from [Lucide](https://lucide.dev)
+
+## [Live Preview] (https://lively-moonbeam-e3d8e6.netlify.app/)
